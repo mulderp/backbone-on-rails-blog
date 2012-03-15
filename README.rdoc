@@ -1,0 +1,4 @@
+== Welcome to Backbone-on-Rails Blog Experiment
+
+The idea for this experiment is to apply Backbone for editing posts and comments in Rails.
+Right now, the project is just for learning purposes
