@@ -4,7 +4,8 @@ window.BackboneTestapp =
   Views: {}
   Routers: {}
   init: -> 
-          Backbone.history.start()
+	BackboneTestapp.Views.Comments($("#comment"))
+    Backbone.history.start()
 
 $(document).ready ->
   BackboneTestapp.init()
